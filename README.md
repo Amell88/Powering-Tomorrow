@@ -1,7 +1,7 @@
 Powering Tomorrow: Bringing Efficiency to Life ✨
-<figure>
-  <img src="https://i.gifer.com/7A9Y.gif" alt="Animated GIF" style="width:100%">
-</figure>
+
+![Animated GIF](https://i.gifer.com/7A9Y.gif)
+
 
 1. Business Understanding
 Overview
@@ -12,6 +12,8 @@ Welcome to the enchanting realm where electrons dance and every spark matters. O
 
 2. Business Problem 🌟
 Embark on a journey towards a greener and more cost-effective future as we set out to revolutionize household electricity consumption. Guided by the magic within the "Individual Household Electric Power Consumption" dataset, our mission is to conjure a predictive model. This magical model will peer into the future, unraveling the mysteries of each household's power consumption, concealed within the mystical patterns of historical data.
+
+
 
 3. Objective
 Picture this: homes infused with the power of foresight! Our noble aim is to bestow households with a crystal ball for their electricity meters. By mastering the art of prediction, we empower families to waltz gracefully with their energy usage. Envision the excitement of anticipating high-consumption peaks, the joy of deciphering usage patterns, and the wizardry of implementing strategies to trim those soaring electricity bills.
