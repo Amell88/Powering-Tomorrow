@@ -1,5 +1,5 @@
 <div style="text-align:center; background-color:#2c3e50; padding:20px; border-radius:10px;">
-    <h1 style="color:#ecf0f1;">Powering Tomorrow: Bringing Efficiency to Life ✨</h1>
+    <h1 style="color:#ecf0f1;"> Powering Tomorrow: Bringing Efficiency to Life ✨</h1>
 </div>
 
 <div style="width:100%; text-align:center;">
