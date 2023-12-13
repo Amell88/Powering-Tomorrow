@@ -71,6 +71,7 @@ This detailed understanding sets the stage for further exploration, cleaning, an
 ### Violin Plot of Hourly Global Active Power:
 
 🎻 The violin plot offers a nuanced view of the distribution and variability of power usage throughout the day. Stakeholders can gain a holistic understanding of how power consumption fluctuates over different times, aiding in the improvement of energy efficiency and resource management. The violin plot is a powerful tool for making informed decisions related to energy use patterns. By visualizing the spread and density of power consumption, stakeholders can identify peak periods, assess variability, and implement strategies to enhance overall energy sustainability.
+![Screenshot (83)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/145d1f10-2ad5-47c9-a0fd-cc846debdda9)
 
 ![Screenshot (74)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/ff86b2d6-8129-4052-806a-72860624124c)
 
@@ -95,17 +96,18 @@ In the process of estimating future energy use for your individual electricity d
      🧠 Deep neural networks, including dense networks, are capable of capturing intricate correlations in the data. These models can automatically learn complex relationships.
    - **Application:**
      A Sequential model has been used to construct deep neural networks. The model architecture includes dense layers, allowing it to learn hierarchical representations of the input data.
-
+![Screenshot (81)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/44e02592-2101-4fdc-bf1c-ddd2a6e70949)
 4. **Specialized Models:**
    - **Long Short-Term Memory (LSTM) Networks:**
      LSTMs are designed for sequential data and can capture long-term dependencies. These networks are suitable for time-series data like energy consumption.
+     ![Screenshot (78)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/45ba5ecc-d464-4674-acf0-c16355b75e23)
    - **Convolutional Neural Networks (CNN):**
      🔄 CNNs excel at recognizing spatial patterns in data. They have been applied to capture spatial dependencies in your electricity dataset.
    - **CNN-LSTM Hybrid:**
      Combining the strengths of CNNs and LSTMs, this hybrid model is capable of capturing both spatial and sequential patterns.
    - **Autoregressive LSTM:**
      An LSTM model that learns from its own predictions, allowing it to iteratively improve its understanding of the data.
-
+![Screenshot (77)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/99389869-f619-411c-a5ad-7918cd592790)
 5. **Evaluation Metric:**
    - **Mean Absolute Error (MAE):**
      The primary metric for evaluating model performance is the Mean Absolute Error (MAE) on the test set. MAE measures how close predictions are to the actual consumption values, providing a clear indicator of prediction accuracy.
@@ -117,12 +119,38 @@ In the process of estimating future energy use for your individual electricity d
      Mean Squared Error (MSE) is used as the loss function. It quantifies the difference between predicted and actual values during training.
    - **Early Stopping:**
      ⏭️ Early stopping is implemented as a callback during training. It halts training when the model's performance on the validation set ceases to improve, preventing overfitting.
+![Screenshot (80)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/8919f581-af47-4947-b34f-6a6431a02909)
+## 8. Recommendations:
+Hyperparameter Tuning:
 
-## 8. Conclusion
+Considering the positive performance trends observed during the 50 epochs of training, it is recommended to conduct further investigations into hyperparameter tuning. Adjusting parameters such as learning rate, batch size, and layer configurations could potentially enhance the model's accuracy and generalization capabilities.
+Regular Monitoring and Maintenance:
 
-🏆 After thorough evaluation, the AR-LSTM model emerged as the best-performing, boasting the lowest Mean Absolute Error (MAE) among all models. This model showcases its prowess in predicting future household power consumption, marking a significant stride toward a more efficient and sustainable energy future.
+Implement a system for regular monitoring and maintenance of the AR-LSTM model. As datasets evolve over time, periodic evaluations and possible retraining of the model may be necessary to ensure its continued effectiveness.
+Ensemble Approaches:
 
+Explore ensemble approaches by combining the predictions of multiple models, including the AR-LSTM, to harness the strengths of different architectures. Ensemble methods often result in improved performance and robustness.
+## 9. Limitations:
+Data Limitations:
+
+The effectiveness of the AR-LSTM model is contingent on the quality and representativeness of the training data. If the dataset lacks diversity or is not fully representative of potential scenarios, the model's generalization may be compromised.
+Overfitting Concerns:
+
+Despite the observed convergence of training and validation metrics, the potential for overfitting exists. The model may have memorized specific patterns in the training data that do not generalize well to unseen data. Regularization techniques or further experimentation with dropout layers could address this concern.
+Sensitivity to Hyperparameters:
+
+The model's performance is sensitive to the chosen hyperparameters. In the absence of an exhaustive hyperparameter search, there is a possibility that the model has not reached its optimal configuration. This limitation underscores the importance of thorough parameter tuning.
+
+## 10. Conclusion:
+In conclusion, the AutoRegressive Long Short-Term Memory (AR-LSTM) model exhibits promising performance in predicting global active power based on the detailed analysis of training and validation metrics. The consistent decrease in training and validation losses, coupled with the reduction in Mean Absolute Error (MAE), signifies the model's proficiency in capturing patterns and making accurate predictions.
+
+The business issue of anticipating global active power is well-addressed by the AR-LSTM model, showcasing its potential for successful deployment in decision-making processes. However, it is crucial to acknowledge the limitations associated with data quality, overfitting concerns, and the sensitivity of the model to hyperparameters.
+
+To further elevate the model's performance, recommendations include delving into hyperparameter tuning, establishing a robust monitoring system, and exploring ensemble approaches. These steps aim to enhance the model's adaptability to diverse scenarios and ensure its sustained effectiveness.
+
+As with any predictive modeling endeavor, continuous improvement through regular assessments and adjustments is key. The AR-LSTM model, while showing promise, should be viewed as a dynamic tool that can benefit from ongoing refinement and adaptation to evolving datasets and business requirements.
 Let the magic of predictive analytics illuminate every home, sparking a revolution in energy efficiency and transforming the way we power our lives! 🌠
+
 
 ### Formulation of Business Problems ✨
 
