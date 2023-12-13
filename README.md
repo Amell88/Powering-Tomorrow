@@ -2,9 +2,8 @@
     <h1 style="color:#ecf0f1;">Table of Contents</h1>
 </div>
 
-https://64.media.tumblr.com/a2521ce0ee6574d0643bf8d8debd4ce5/tumblr_psxqvp4PcM1qg39ewo1_500.gifv
+![Powering Tomorrow: Bringing Efficiency to Life ✨](https://64.media.tumblr.com/a2521ce0ee6574d0643bf8d8debd4ce5/tumblr_psxqvp4PcM1qg39ewo1_500.gifv)
 
-# Powering Tomorrow: Bringing Efficiency to Life ✨
 
 ## 1. Business Understanding
 
