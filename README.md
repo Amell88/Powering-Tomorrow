@@ -1,7 +1,7 @@
 <div style="text-align:center; background-color:#2c3e50; padding:20px; border-radius:10px;">
     <h1 style="color:#ecf0f1;"> Powering Tomorrow: Bringing Efficiency to Life ✨</h1>
 </div>
-Ismael Kipkoech | Peninah Gituku | Cynthia Adisa
+ISMAEL KIPKOECH | PENINAH GITUKU | CYNTHIA ADISA
 <div style="width:100%; text-align:center;">
     <img src="https://64.media.tumblr.com/a2521ce0ee6574d0643bf8d8debd4ce5/tumblr_psxqvp4PcM1qg39ewo1_500.gifv" alt="Powering Tomorrow: Bringing Efficiency to Life ✨" style="width:100%;">
 </div>
