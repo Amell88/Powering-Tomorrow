@@ -1,6 +1,9 @@
 Powering Tomorrow: Bringing Efficiency to Life ✨
 
-![Animated GIF](https://i.gifer.com/7A9Y.gif)
+<div style="width: 100%; text-align: center;">
+    <img src="https://i.gifer.com/7A9Y.gif" alt="Animated GIF" style="width: 100%;">
+</div>
+
 
 
 1. Business Understanding
