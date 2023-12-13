@@ -1,8 +1,5 @@
 # Powering Tomorrow: Bringing Efficiency to Life ✨
 
-<div align="center">
-    <img src="https://i.gifer.com/7A9Y.gif" alt="Animated GIF" style="width: 100%;">
-</div>
 
 ## 1. Business Understanding
 
@@ -21,6 +18,12 @@ Picture this: homes infused with the power of foresight! Our noble aim is to bes
 ## 4. Spellbinding Solution
 
 Behold our magical predictive model, a beacon of enchantment for households, offering insights that transcend the ordinary. Unleashing the power of data, we invite users on an enthralling journey of energy enlightenment. Through this captivating adventure, our goal is simple yet profound — to help households save on electricity costs and illuminate a brighter, more sustainable future for all.
+![Screenshot (73)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/c4168714-38b9-4270-9fa2-44d905db2a74)
+![Screenshot (74)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/ff86b2d6-8129-4052-806a-72860624124c)
+![Screenshot (80)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/8919f581-af47-4947-b34f-6a6431a02909)
+![Screenshot (78)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/45ba5ecc-d464-4674-acf0-c16355b75e23)
+
+![Screenshot (77)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/99389869-f619-411c-a5ad-7918cd592790)
 
 Let the magic of predictive analytics illuminate every home, sparking a revolution in energy efficiency and transforming the way we power our lives! 🌠
 
