@@ -23,7 +23,6 @@ Picture this: homes infused with the power of foresight! Our noble aim is to bes
 ## 4. Spellbinding Solution
 
 Behold our magical predictive model, a beacon of enchantment for households, offering insights that transcend the ordinary. Unleashing the power of data, we invite users on an enthralling journey of energy enlightenment. Through this captivating adventure, our goal is simple yet profound — to help households save on electricity costs and illuminate a brighter, more sustainable future for all.
-![Screenshot (73)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/c4168714-38b9-4270-9fa2-44d905db2a74)
 
 ## 5. Data Understanding
 Column Names:
@@ -55,13 +54,23 @@ Date, Time, Global_reactive_power, Voltage, Global_intensity, Sub_metering_1, Su
 
 Missing Values:
 Several columns in the dataset have missing values, as indicated by "Non-Null Count" values being less than the total number of entries (2,075,259). The extent and locations of missing data vary across columns, requiring attention during data preprocessing.
-![Screenshot (74)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/ff86b2d6-8129-4052-806a-72860624124c)
-
 
 This detailed understanding sets the stage for further exploration, cleaning, and analysis of the dataset based on the specific objectives of your project.
 
 ## 6. Exploratory Data Analysis (EDA)
-   - [Provide insights gained from EDA, visualizations, and key findings.]
+  Time Series Decomposition:
+The time series decomposition applied to the hourly global active power data serves as a valuable technique for unveiling underlying patterns in the dataset. This process dissects the data into three components: trend, seasonal patterns, and residual variations. Understanding these components is crucial for gaining insights into how power consumption evolves over time. Stakeholders can use this information to anticipate trends, identify recurring seasonal patterns, and recognize unexpected variations that may warrant further investigation.
+![Screenshot (73)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/c4168714-38b9-4270-9fa2-44d905db2a74)
+
+Heatmap of Hourly Power Consumption:
+The heatmap visualizes the hourly power consumption across different days, providing a comprehensive overview of consumption patterns. Businesses can leverage this visualization to identify specific hours or days characterized by consistently high or low power consumption. Such insights are instrumental in optimizing operational schedules. For instance, identifying periods of low consumption may present opportunities for scheduling maintenance or energy-intensive tasks. This knowledge also facilitates resource allocation, enabling businesses to adjust staffing levels, equipment usage, or energy-intensive processes based on expected power demand during different hours.
+
+Violin Plot of Hourly Global Active Power:
+The violin plot offers a nuanced view of the distribution and variability of power usage throughout the day. Stakeholders can gain a holistic understanding of how power consumption fluctuates over different times, aiding in the improvement of energy efficiency and resource management. The violin plot is a powerful tool for making informed decisions related to energy use patterns. By visualizing the spread and density of power consumption, stakeholders can identify peak periods, assess variability, and implement strategies to enhance overall energy sustainability.
+
+These visualizations, along with their detailed interpretations, equip stakeholders with valuable insights into the temporal dynamics of power consumption, enabling them to make informed decisions and optimize energy-related processes.
+![Screenshot (74)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/ff86b2d6-8129-4052-806a-72860624124c)
+
 
 ## 7. Modelling
    In the process of estimating future energy use for your individual electricity dataset, you have employed a variety of predictive models. The goal is to identify the model that performs optimally in providing reliable estimates. Below is an explanation of the different models considered in your modeling phase:
