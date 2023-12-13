@@ -73,8 +73,6 @@ This detailed understanding sets the stage for further exploration, cleaning, an
 🎻 The violin plot offers a nuanced view of the distribution and variability of power usage throughout the day. Stakeholders can gain a holistic understanding of how power consumption fluctuates over different times, aiding in the improvement of energy efficiency and resource management. The violin plot is a powerful tool for making informed decisions related to energy use patterns. By visualizing the spread and density of power consumption, stakeholders can identify peak periods, assess variability, and implement strategies to enhance overall energy sustainability.
 ![Screenshot (83)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/145d1f10-2ad5-47c9-a0fd-cc846debdda9)
 
-![Screenshot (74)](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/ff86b2d6-8129-4052-806a-72860624124c)
-
 ## 7. Modelling
 
 In the process of estimating future energy use for your individual electricity dataset, you have employed a variety of predictive models. The goal is to identify the model that performs optimally in providing reliable estimates. Below is an explanation of the different models considered in your modeling phase:
