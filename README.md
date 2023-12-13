@@ -14,7 +14,8 @@ ISMAEL KIPKOECH | PENINAH GITUKU | CYNTHIA ADISA
 
 ## 2. Business Problem 🌟
 
-🚀 Embark on a journey towards a greener and more cost-effective future as we set out to revolutionize household electricity consumption. Guided by the magic within the "Individual Household Electric Power Consumption" dataset, our mission is to conjure a predictive model. This magical model will peer into the future, unraveling the mysteries of each household's power consumption, concealed within the mystical patterns of historical data.
+🚀 Embark on a journey towards a greener and more cost-effective future as we set out to revolutionize household electricity consumption. Guided by the magic within the "Individual Household Electric Power Consumption"dataset, our mission is to conjure a predictive model. This magical model will peer into the future, unraveling the mysteries of each household's power consumption, concealed within the mystical patterns of historical data.
+![casey-horner-n7Bp8zlnhRk-unsplash](https://github.com/Amell88/Powering-Tomorrow/assets/121213708/ea34adf2-7489-48d9-afa0-e18b16562f51)
 
 ## 3. Objective
 
